@@ -25,8 +25,8 @@ listeners:
   - lobby
   bind_local_address: true
   host: 0.0.0.0:25577
-  max_players: 100
-  tab_size: 60
+  max_players: 200
+  tab_size: 200
   force_default_server: false
 server_connect_timeout: 5000
 player_limit: -1
